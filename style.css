@@ -7,7 +7,7 @@
 
 body {
     background: #f6f5f7;
-    background-color: #2b2b2b;
+    background-color: #d3cece;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -71,6 +71,7 @@ button:focus {
 button.ghost {
     background-color: transparent;
     border-color: #FFFFFF;
+    /* margin: 10px; */
 }
 
 form {
